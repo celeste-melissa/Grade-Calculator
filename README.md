@@ -1,4 +1,4 @@
-This is probably the world's simplest grade calculator. 
+This is probably the world's _simplest_ grade calculator. 
 
 How to use it?
 1. Run the script.
